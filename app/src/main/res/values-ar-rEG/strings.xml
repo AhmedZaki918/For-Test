@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ForTest</string>
+    <string name="mess_notification">اسرع لملاحقة الاتوبيس قبل المغادرة</string>
+    <string name="reply_label">رد</string>
+    <string name="website_name">تصفح موقعنا</string>
+    <string name="des">مميزات استخدام الحقول الديناميكية</string>
+    <string name="new_bus">اتوبيس جديد وصل</string>
+    <string name="go">اذهب</string>
+</resources>

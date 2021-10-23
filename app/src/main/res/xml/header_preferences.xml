@@ -1,0 +1,16 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <Preference
+        app:fragment="com.example.fortest.SettingsActivity$SyncFragment"
+        app:icon="@drawable/ic_baseline_timeline"
+        app:key="other_header"
+        app:title="@string/other_header" />
+
+    <Preference
+        app:fragment="com.example.fortest.SettingsActivity$AdvancedFragment"
+        app:icon="@drawable/ic_baseline_toggle_on"
+        app:key="advanced_header"
+        app:title="@string/advanced_header" />
+
+</PreferenceScreen>
